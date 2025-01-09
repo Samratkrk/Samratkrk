@@ -1,5 +1,5 @@
 Hi 👋 My name is Sam,
-=====================Web Developer / Blockchian Enthusiast-------------------------------------I am a full stack developer. I have been coding for almost a year now. I also have been learning blockchain. The new Blockchain technology is very fascinating and the contribution/development it can bring for the Internet world is breathtaking. I am actively looking for a "THE" Job. When I am not coding I am thinking about coding lol. Thanks for stopping by.* 🌍  I'm based in NYC, New York* ✉️  You can contact me at [Samscript55@gmail.com](mailto:Samscript55@gmail.com)* 🧠  I'm learning Solidity* ⚡  I'm also a rideshare driver in NYC. We might share a car 😉😁
+=====================Web Developer / Blockchian Enthusiast-------------------------------------I am a full stack developer.  I also have been learning blockchain. The new Blockchain technology is very fascinating and the contribution/development it can bring for the Internet world is breathtaking. I am actively looking for a "THE" Job. When I am not coding I am thinking about coding lol. Thanks for stopping by.* 🌍  I'm based in NYC, New York* ✉️  You can contact me at [Samscript55@gmail.com](mailto:Samscript55@gmail.com)* 🧠    I'm also a rideshare driver in NYC. We might share a car 😉😁
 
 ### Things I have worked with
 
